@@ -17,7 +17,7 @@ export const initialProducts: Product[] = [
     gia: 150000,
     soLuong: 50,
     moTa: 'Áo thun cotton 100%, form rộng thoải mái, nhiều màu sắc',
-    hinhAnh: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop'
+    hinhAnh: 'https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmqaum1188gvc9'
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ export const initialProducts: Product[] = [
     gia: 18000000,
     soLuong: 15,
     moTa: 'Smartphone flagship với AI mạnh mẽ, camera 200MP',
-    hinhAnh: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400&h=400&fit=crop'
+    hinhAnh: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570396_sd.jpg'
   },
   {
     id: 4,
@@ -53,16 +53,16 @@ export const initialProducts: Product[] = [
     gia: 45000000,
     soLuong: 5,
     moTa: 'Laptop cao cấp với chip M3, màn hình Retina 14 inch',
-    hinhAnh: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop'
+    hinhAnh: 'https://media.idownloadblog.com/wp-content/uploads/2023/10/MacBook-Pro-Space-Black-M3-Pro.png'
   },
   {
     id: 7,
-    ten: 'Quần Jean Skinny',
+    ten: 'Quần Jean ống rộng',
     danhMuc: 'Quần áo',
     gia: 350000,
     soLuong: 40,
     moTa: 'Quần jean co giãn, form ôm, thời trang Hàn Quốc',
-    hinhAnh: 'https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=400&fit=crop'
+    hinhAnh: 'https://down-vn.img.susercontent.com/file/9e23fab8593605dba7290e5c81e91cbc'
   },
   {
     id: 8,
@@ -71,7 +71,7 @@ export const initialProducts: Product[] = [
     gia: 55000,
     soLuong: 80,
     moTa: 'Phở Bò với thịt bò tái, nạm, gân, sách đầy đủ',
-    hinhAnh: 'https://images.unsplash.com/photo-1591814468924-caf88d1232e1?w=400&h=400&fit=crop'
+    hinhAnh: 'https://media.mia.vn/uploads/blog-du-lich/top-19-quan-pho-ha-noi-ngon-nuc-tieng-an-la-ghien-phan-1-05-1639125006.png'
   },
   {
     id: 9,
@@ -89,7 +89,7 @@ export const initialProducts: Product[] = [
     gia: 6500000,
     soLuong: 20,
     moTa: 'Tai nghe không dây với chống ồn chủ động, âm thanh spatial',
-    hinhAnh: 'https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=400&h=400&fit=crop'
+    hinhAnh: 'https://tse2.mm.bing.net/th/id/OIP.roelGNN_Y9LywuTTUGDeNAHaE8?pid=Api&P=0&h=220'
   },
   {
     id: 11,
@@ -98,7 +98,7 @@ export const initialProducts: Product[] = [
     gia: 450000,
     soLuong: 35,
     moTa: 'Áo hoodie nỉ bông dày, giữ ấm tốt, phong cách streetwear',
-    hinhAnh: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=400&fit=crop'
+    hinhAnh: 'https://cf.shopee.vn/file/8c312d275ef1ed8373d85fb1a0eea491'
   },
   {
     id: 12,
@@ -107,6 +107,6 @@ export const initialProducts: Product[] = [
     gia: 45000,
     soLuong: 90,
     moTa: 'Cơm tấm với sườn nướng, bì, chả trứng và đồ chua',
-    hinhAnh: 'https://images.unsplash.com/photo-1626074353765-517a681e40be?w=400&h=400&fit=crop'
+    hinhAnh: 'https://cookbeo.com/media/2021/10/com-tam/com-tam.jpg'
   }
 ];
