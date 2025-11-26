@@ -35,7 +35,7 @@ export const initialProducts: Product[] = [
     gia: 35000,
     soLuong: 100,
     moTa: 'Bánh mì Sài Gòn truyền thống với pate, chả, thịt nguội',
-    hinhAnh: 'https://images.unsplash.com/photo-1598182198871-d3f4ab4fd181?w=400&h=400&fit=crop'
+    hinhAnh: 'https://banhmihuynhhoa.vn/wp-content/uploads/2024/05/441021515_989527103175595_6554537610919870397_n-e1716881251709.jpg'
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ export const initialProducts: Product[] = [
     gia: 250000,
     soLuong: 30,
     moTa: 'Sách lập trình kinh điển về cách viết code sạch và dễ bảo trì',
-    hinhAnh: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop'
+    hinhAnh: 'https://cdn0.fahasa.com/media/catalog/product/c/l/clean_code_tai_ban_3_b1.jpg'
   },
   {
     id: 6,
@@ -80,7 +80,7 @@ export const initialProducts: Product[] = [
     gia: 320000,
     soLuong: 25,
     moTa: 'Sách hướng dẫn trở thành lập trình viên chuyên nghiệp',
-    hinhAnh: 'https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=400&fit=crop'
+    hinhAnh: 'https://m.media-amazon.com/images/I/91mSZ570DUL._SL1500_.jpg'
   },
   {
     id: 10,
